@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Mehra @shubham-spreadd
 - 👀 I’m currently interested in Javascript & MMA 🤼‍♀️.
-- 🌱 I’m currently learning Relay & React.
+- 🌱 I’m currently working on Relay & React.
 - 📫 How to reach me --> shubham.mehra@spreadd.io
 
 <!---
