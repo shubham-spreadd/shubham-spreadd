@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham Mehra @shubham-spreadd
-- 👀 I’m currently interested in Javascript & MMA 🤼‍♀️.
+- 👀 I’m currently interested in Javascript & MMA 🤼‍♂️.
 - 🌱 I’m currently working on Relay & MERN.
 - 📫 How to reach me --> shubham.mehra@spreadd.io
 
