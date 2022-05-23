@@ -1,11 +1,13 @@
-- 👋 Hi, I’m Shubham Mehra @shubham-spreadd
-- 👀 I’m currently interested in Javascript & MMA 🤼‍♂️.
-- 🌱 I’m currently working on Relay & MERN.
-- 📫 How to reach me --> shubham.mehra@spreadd.io
+<p align="center">
+    <a href="https://shubhammehra.netlify.app"><img alt="Website" title="website" src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/1801-shubham-mehra/"><img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shubham.mehra@spreadd.io"><img alt="gmail" title="gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/_shubham_dev"><img alt="twitter" title="twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white"/></a>
+</p>
 
-<!---
-shubham-spreadd/shubham-spreadd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<figure><embed src="https://wakatime.com/share/@68aa19ff-226a-4e74-9cc8-e6dd34b56dcf/02bca848-2213-47e8-a3ca-c5bf02202b3a.svg"></embed></figure>
+<p align="center">
+    <p>👋 Hi, I’m Shubham Mehra @shubham-spreadd</p> 
+    <p>👀 I’m currently interested in Javascript & MMA 🤼‍♂️.</p>
+    <p>🌱 I’m currently working on Relay & MERN.</p>
+    <p>📫 How to reach me --> shubham.mehra@spreadd.io</p>
+</p>
