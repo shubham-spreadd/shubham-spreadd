@@ -12,4 +12,6 @@
     <p>📫 How to reach me --> shubham.mehra@spreadd.io</p>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/wakatime?username=shubham_spreadd)](https://github.com/shubham-spreadd/)
+<div align="center">
+    [![Readme Card](https://github-readme-stats.vercel.app/api/wakatime?username=shubham_spreadd)](https://github.com/shubham-spreadd/)
+</div>
