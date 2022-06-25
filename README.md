@@ -13,5 +13,5 @@
 </div>
 
 <div align="center">
-    [![Readme Card](https://github-readme-stats.vercel.app/api/wakatime?username=shubham_spreadd)](https://github.com/shubham-spreadd/)
+    [![Readme Card]<figure><embed src="https://wakatime.com/share/@shubham_spreadd/87d9e6d7-7f46-499a-8836-329285026017.svg"></embed></figure>
 </div>
