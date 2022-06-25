@@ -13,5 +13,5 @@
 </div>
 
 <div align="center">
-    [![Readme Card]<figure><embed src="https://wakatime.com/share/@shubham_spreadd/87d9e6d7-7f46-499a-8836-329285026017.svg"></embed></figure>
+    [![Readme Card]<figure><img src="https://wakatime.com/share/@shubham_spreadd/87d9e6d7-7f46-499a-8836-329285026017.svg" /></figure>
 </div>
