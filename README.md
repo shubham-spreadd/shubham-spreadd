@@ -11,3 +11,5 @@
     <p>🌱 I’m currently working on Relay & MERN.</p>
     <p>📫 How to reach me --> shubham.mehra@spreadd.io</p>
 </div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/wakatime?username=shubham-spreadd)](https://github.com/shubham-spreadd/)
